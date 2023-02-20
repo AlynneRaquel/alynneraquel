@@ -5,3 +5,6 @@
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Já tive medo de mudar, hoje tenho medo de parar aqui.
 
+
+-> Endereço para acessar meu CV: https://lattes.cnpq.br/3605688074357871
+
