@@ -1,10 +1,14 @@
-### Olá, eu sou a Alynne Raquel 😄
+### Olá, eu sou a Alynne Raquel \o/
 
-- 🔭 Javeira <3
-- 🌱 Sou uma mulher apaixonada por tecnologia e possuo mais de 8 anos de experiência na área.
-- ⚡ Minha jornada profissional é um diferencial na minha carreira, porque programação vai muito além de código. E eu tenho muito conhecimento e experiência com software      além de código.
-- Fun fact: Já tive medo de mudar, hoje tenho medo de parar aqui.
+🔭 Javeira <3
 
+Apaixonada por conceber soluções e motivada por desafios.
+
+🌱 Mulher entusiasta da tecnologia, acumulando mais de 10 anos de experiência na área.
+
+⚡ Minha trajetória profissional se destaca, pois a programação transcende o código. Possuo amplo conhecimento e experiência em software, indo além do simples ato de programar.
+
+Fun fact: Já tive receio de mudanças, hoje temo estagnar. O aprendizado contínuo é meu combustível.
 
 Endereço para acessar meu:  [Lattes](https://lattes.cnpq.br/3605688074357871)
 
