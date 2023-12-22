@@ -1,4 +1,4 @@
-### Olá, eu sou a Alynne Raquel \o/
+### Olá, eu sou a Alynne Raquel 
 
 🔭 Javeira <3
 
